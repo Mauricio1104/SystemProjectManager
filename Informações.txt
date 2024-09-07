@@ -1,0 +1,19 @@
+Informações Banco de  Dados:
+LINK DO PHPMYADMIN: https://phpmyadmin.locaweb.com.br/phpmyadmin47/sql.php?server=1&db=sistemaelmo&table=Usuarios&pos=0&token=346b12c1268905349ab235f58b8d8fd1
+
+
+Servidor: sistemaelmo.mysql.dbaas.com.br
+Nome do Banco: SistemaElmo
+Senha: Elmo#2008@
+User: sistemaelmo
+
+WORKBENCH:
+Senha do workbench: admin
+Usuario: Mauricio
+Senha user: admin
+
+Dados do Servidor:
+Ubunto;
+Nome do Servidor: Elmocontabilidade
+Senha: 8002@Elmo#9401
+Token de Acesso API:e4ae8924dc2ce9ccc16b9316a4424eaad8d3e8f8279dc376182f127f
